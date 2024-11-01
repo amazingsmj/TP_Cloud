@@ -1,0 +1,11 @@
+{
+    "vsphere_host": "192.168.26.10",
+    "vsphere_user": "root",
+    "vsphere_password": "tototiti32**",
+    "ova_path": "C:/Users/KingT1/Desktop/VMWare/Send/OVA",
+    "iso_path": "./OVA//Core-5.4.iso",
+    "number_of_instances": 2,
+    "template_vm_name": "[DB1] test/Core-5.4.iso",
+    "ram": 248,
+    "disk_size": 2
+}
